@@ -23,7 +23,7 @@ A 5x100x100x4 neural network that is trained at runtime [Source](/Main.playgroun
 
 ## Todo:
 
-[ ] Add more training data
+- [ ] Add more training data
 
 ## See More:
 

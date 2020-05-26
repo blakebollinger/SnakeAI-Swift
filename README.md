@@ -21,6 +21,10 @@ A 5x100x100x4 neural network that is trained at runtime [Source](/Main.playgroun
 
 ### Current High Score: 17
 
+## Todo:
+
+[ ] Add more training data
+
 ## See More:
 
 Some of the neural network included in SnakeAI draws from SwiftAI. Check out their repo [here](https://github.com/Swift-AI/Swift-AI)

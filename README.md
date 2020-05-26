@@ -23,4 +23,4 @@ A 5x100x100x4 neural network that is trained at runtime
 
 ## See More:
 
-Some of the neural network included in SnakeAI draws from SwiftAI. Check out their repo [here] (https://github.com/Swift-AI/Swift-AI)
+Some of the neural network included in SnakeAI draws from SwiftAI. Check out their repo [here](https://github.com/Swift-AI/Swift-AI)

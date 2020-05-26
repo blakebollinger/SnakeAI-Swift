@@ -13,11 +13,11 @@ The neural network has no dependencies and is built in pure Swift 5 for fast and
 
 ## The repository includes:
 
-A swift playground with the core Snake functionality [Source](/Main.playground/Sources/Snake%20Game)
+A swift playground with the [core Snake functionality](/Main.playground/Sources/Snake%20Game)
 
-A 5x100x100x4 neural network that is trained at runtime [Source](/Main.playground/Sources/Neural%20Network)
+[A custom 5x100x100x4 neural network](/Main.playground/Sources/Neural%20Network) that is trained at runtime
 
-\~30 mins of generated Snake gameplay as training data [Source](/Main.playground/Sources/Neural%20Network/TrainingData.swift)
+\~30 mins of generated Snake gameplay as [training data](/Main.playground/Sources/Neural%20Network/TrainingData.swift)
 
 ### Current High Score: 17
 

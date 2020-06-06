@@ -1,10 +1,12 @@
+There is a detailed description over on [my website](https://blake-bollinger.com/2020/05/26/building-a-neural-network-to-play-snake/)!
+
 # Welcome to SnakeAI
 
 Snake AI is a swift playground that contains a neural network built to play the classic game Snake
 
 The neural network has no dependencies and is built in pure Swift 5 for fast and efficient training and infrencing. Can be trained AT RUNTIME in <1sec
 
-## How to Execute:
+## How to Run:
 
 1. Download/Clone repo
 2. Open Main.playground in Xcode (Tested in v11.5)

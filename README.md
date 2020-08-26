@@ -4,7 +4,7 @@ There is a detailed description over on [my website](https://blake-bollinger.com
 
 Snake AI is a swift playground that contains a neural network built to play the classic game Snake
 
-The neural network has no dependencies and is built in pure Swift 5 for fast and efficient training and infrencing. Can be trained AT RUNTIME in <1sec
+The neural network has no dependencies and is built in pure Swift 5 for fast and efficient training and inferencing. Can be trained AT RUNTIME in <1sec
 
 ## How to Run:
 
